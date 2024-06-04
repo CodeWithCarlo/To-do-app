@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+#root {
+  max-width: 1280px;
+  margin: 30px auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.concert {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
